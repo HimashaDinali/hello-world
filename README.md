@@ -1,2 +1,2 @@
 # hello-world
-Hello I'am himasha
+Hello Sugar Labs
